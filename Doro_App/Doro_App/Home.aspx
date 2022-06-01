@@ -12,7 +12,7 @@
     <section class="">
       <div class="container">
        
-          <div class="col-md-12 col-lg-11">
+          <div class="col-sm-12 col-md-12 col-lg-12">
          
               <h1 class="title-single">About Us</h1>
               <span class="color-text-a">
@@ -118,7 +118,7 @@
     <section class="section-agents section-t8">
       <div class="container">
         <div class="row">
-          <div class="col-md-12">
+          <div class="col-md-12 col-lg-12 col-sm-12">
             <div class="title-wrap d-flex justify-content-between">
               <div class="title-box">
                 <h2 class="title-a">Artist</h2>

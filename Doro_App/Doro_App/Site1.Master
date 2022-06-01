@@ -141,7 +141,7 @@
   <section class="section-footer">
     <div class="container">
       <div class="row">
-        <div class="col-sm-12 col-md-6 col-lg-6">
+        <div class="col-sm-12 col-md-6 col-lg-12">
           <div class="widget-a">
             <div class="w-header-a">
               <h3 class="w-title-a text-brand">DORO</h3>
@@ -162,7 +162,7 @@
           </div>
         </div>
 
-        <div class="col-sm-12 col-md-6 col-lg-6">
+        <div class="col-sm-12 col-md-12 col-lg-12">
           <div class="widget-a">
             <div class="w-header-a">
               <h3 class="w-title-a text-brand">The Site</h3>
@@ -198,7 +198,7 @@
   <footer>
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 col-sm-12">
           <nav class="nav-footer">
             <ul class="list-inline">
               <li class="list-inline-item">
