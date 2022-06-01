@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode  title="Doro"  description="Doro">
+    
+    <siteMapNode url="~/Home.aspx" title="Home"  description="Home">
+      <siteMapNode url="~/SignUp.aspx" title="Sign Up"  description="Sign Up" />
+      <siteMapNode url="~/SignIn.aspx" title="Sign In"  description="Sign In" />
+    </siteMapNode>
+
+    <siteMapNode url="~/Exhibition.aspx" title="Exhibition"  description="Exhibition"/>
+
+
+    <siteMapNode url="~/Blogs.aspx" title="Blogs"  description="Blogs">
+      <siteMapNode url="~/Post.aspx" title="Post"  description="Post"/>
+        <siteMapNode url="~/Profile.aspx" title="Profile"  description="Profile" />
+      
+    </siteMapNode>
+
+  </siteMapNode>
+  
+</siteMap>
