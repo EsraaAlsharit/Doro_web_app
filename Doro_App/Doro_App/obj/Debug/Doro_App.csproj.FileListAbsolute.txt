@@ -356,3 +356,7 @@ D:\Downloads\pro\Doro_App\Doro_App\obj\Debug\Doro_App.csproj.AssemblyReference.c
 D:\Downloads\pro\Doro_App\Doro_App\obj\Debug\Doro_App.csproj.CoreCompileInputs.cache
 D:\Downloads\pro\Doro_App\Doro_App\obj\Debug\Doro_App.dll
 D:\Downloads\pro\Doro_App\Doro_App\obj\Debug\Doro_App.pdb
+C:\Users\hp-pc\Documents\GitHub\Doro_web_app\Doro_App\Doro_App\obj\Debug\Doro_App.csproj.AssemblyReference.cache
+C:\Users\hp-pc\Documents\GitHub\Doro_web_app\Doro_App\Doro_App\obj\Debug\Doro_App.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\Documents\GitHub\Doro_web_app\Doro_App\Doro_App\obj\Debug\Doro_App.dll
+C:\Users\hp-pc\Documents\GitHub\Doro_web_app\Doro_App\Doro_App\obj\Debug\Doro_App.pdb

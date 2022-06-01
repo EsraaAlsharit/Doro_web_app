@@ -9,7 +9,7 @@
          <main id="main">
 
      <!-- ======= About us ======= -->
-    <section class="intro-single">
+    <section class="">
       <div class="container">
        
           <div class="col-md-12 col-lg-11">
@@ -124,7 +124,7 @@
                 <h2 class="title-a">Artist</h2>
               </div>
               <div class="title-link">
-                <a href=Blogs.aspx">All Agents
+                <a href=Blogs.aspx">All Artists
                   <span class="ion-ios-arrow-forward"></span>
                 </a>
               </div>
